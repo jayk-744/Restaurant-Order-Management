@@ -1,0 +1,62 @@
+[
+  {
+    "id": "starters",
+    "name": "Starters",
+    "items": [
+      {
+        "id": "s1",
+        "name": "Spring Rolls",
+        "description": "Crispy veg rolls",
+        "price": 120,
+        "imageUrl": "https://picsum.photos/seed/s1/200/150"
+      },
+      {
+        "id": "s2",
+        "name": "Chicken Wings",
+        "description": "Spicy wings",
+        "price": 250,
+        "imageUrl": "https://picsum.photos/seed/s2/200/150"
+      }
+    ]
+  },
+  {
+    "id": "main",
+    "name": "Main Course",
+    "items": [
+      {
+        "id": "m1",
+        "name": "Paneer Butter Masala",
+        "description": "",
+        "price": 220,
+        "imageUrl": "https://picsum.photos/seed/m1/200/150"
+      },
+      {
+        "id": "m2",
+        "name": "Grilled Chicken",
+        "description": "",
+        "price": 320,
+        "imageUrl": "https://picsum.photos/seed/m2/200/150"
+      }
+    ]
+  },
+  {
+    "id": "dessert",
+    "name": "Desserts",
+    "items": [
+      {
+        "id": "d1",
+        "name": "Gulab Jamun",
+        "description": "",
+        "price": 90,
+        "imageUrl": "https://picsum.photos/seed/d1/200/150"
+      },
+      {
+        "id": "d2",
+        "name": "Brownie",
+        "description": "",
+        "price": 150,
+        "imageUrl": "https://picsum.photos/seed/d2/200/150"
+      }
+    ]
+  }
+]
