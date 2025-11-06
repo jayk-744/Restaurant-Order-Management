@@ -1,16 +1,53 @@
 # ordermanagement
 
-A new Flutter project.
+A mobile application built using **Flutter + Provider + Shared Preferences** that allows users to browse a restaurant menu, add items to a cart, and place an order.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+| Feature | Description |
+|--------|-------------|
+| 📋 Menu Page | Browse categorized restaurant menu (Starters, Main Course, Desserts) |
+| 🛒 Cart Functionality | Add / remove items, increment/decrement quantity |
+| 🧾 Order Summary | Generates unique Order ID |
+| 💾 Local Storage | Cart items stored in Shared Preferences |
+| 🎨 Theme Support | Light / Dark mode toggle & save preference |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖥️ Tech Stack
+
+- **Flutter**
+- **Provider (State Management)**
+- **Shared Preferences (Local storage)**
+- **Local JSON (Menu Data)**
+
+## 📸 App Screenshots
+
+### Menu Screen
+<div>
+<img src="assets/screenshots/light_menu.png" width="300"/>
+<img src="assets/screenshots/dark_menu.png" width="300"/>
+</div>
+
+
+### Cart Screen
+<div>
+<img src="assets/screenshots/light_cart.png" width="300"/>
+<img src="assets/screenshots/dark_cart.png" width="300"/>
+</div>
+
+### Order Confirmation
+<div>
+<img src="assets/screenshots/light_order.png" width="300"/>
+<img src="assets/screenshots/dark_order.png" width="300"/>
+</div>
+
+### Settings Screen
+<div>
+<img src="assets/screenshots/light_setting.png" width="300"/>
+<img src="assets/screenshots/dark_setting.png" width="300"/>
+</div>
+
+
